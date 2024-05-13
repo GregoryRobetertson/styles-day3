@@ -1,3 +1,12 @@
+### Steps
+
+- I installed react bootsrap
+- -Then I installed talwind css
+
+### Purpose
+
+- The purpose was to add a navbar using bootstap, create a hero using tailwind, a card layout, and create a footer using bootstrap.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
